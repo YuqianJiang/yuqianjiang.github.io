@@ -2,6 +2,11 @@
 title: Publications
 ---
 ## Conference
+- Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, *Yuqian Jiang*, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J. Mooney
+**"Improving Grounded Natural Language Understanding through Human-Robot Dialog."**
+In IEEE International Conference on Robotics and Automation (ICRA), 2019.
+[Paper](http://www.cs.utexas.edu/users/ai-lab/downloadPublication.php?filename=http://www.cs.utexas.edu/users/ml/papers/thomason.icra18.pdf&pubid=127746)
+
 - Shiqi Zhang, *Yuqian Jiang*, Guni Sharon, and Peter Stone.  
 **"Multirobot Symbolic Planning under Temporal Uncertainty."**  
 In Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Sytems (AAMAS), 2017.  
