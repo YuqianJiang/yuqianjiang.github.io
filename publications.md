@@ -1,7 +1,11 @@
 ---
 title: Publications
 ---
-## Conference
+## Conference Papers
+- *Yuqian Jiang*, Nick Walker, Justin Hart, and Peter Stone.  
+**"Open World Reasoning for Service Robots."**  
+To Appear in International Conference in Automated Planning and Scheduling (ICAPS), 2019.  
+
 - Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, *Yuqian Jiang*, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J. Mooney.  
 **"Improving Grounded Natural Language Understanding through Human-Robot Dialog."**  
 To Appear in IEEE International Conference on Robotics and Automation (ICRA), 2019.  
@@ -14,7 +18,17 @@ In Proceedings of the 16th International Conference on Autonomous Agents and Mul
 
 
 
-## Workshop
+## Journal Articles
+- *Yuqian Jiang*, Harel Yedidsion, Shiqi Zhang, Guni Sharon, and Peter Stone.  
+**"Multi-Robot Planning with Conflicts and Synergies."**  
+Autonomous Robots, 2019 (accepted)
+
+- *Yuqian Jiang*, Shiqi Zhang, Piyush Khandelwal, and Peter Stone.  
+**"Task Planning in Robotics: an Empirical Comparison of PDDL-based and ASP-based Systems."**  
+Frontiers of Information Technology and Electronic Engineering, Special Issue on Intelligent Robots, 2019.  
+[Paper](https://arxiv.org/pdf/1804.08229.pdf)
+
+## Workshop/Symposium Papers
 - *Yuqian Jiang*, Nick Walker, Minkyu Kim, Nicolas Brissonneau, Daniel S Brown, Justin W Hart, Scott Niekum, Luis Sentis, and Peter Stone.  
 **“LAAIR: A Layered Architecture for Autonomous Interactive Robots.”**  
 In Proceedings of the AAAI Fall Symposium on Reasoning and Learning in Real-World Systems for Long-Term Autonomy (LTA), 2018.  
