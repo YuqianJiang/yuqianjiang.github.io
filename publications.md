@@ -3,7 +3,7 @@ title: Publications
 ---
 ## Conference Papers
 - *Yuqian Jiang*, Nick Walker, Justin Hart, and Peter Stone.  
-**"Open World Reasoning for Service Robots."**  
+**"Open-World Reasoning for Service Robots."**  
 To Appear in International Conference in Automated Planning and Scheduling (ICAPS), 2019.  
 
 - Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, *Yuqian Jiang*, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J. Mooney.  
