@@ -9,7 +9,7 @@ To Appear in International Conference in Automated Planning and Scheduling (ICAP
 - Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, *Yuqian Jiang*, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J. Mooney.  
 **"Improving Grounded Natural Language Understanding through Human-Robot Dialog."**  
 To Appear in IEEE International Conference on Robotics and Automation (ICRA), 2019.  
-[Paper](http://www.cs.utexas.edu/users/ai-lab/downloadPublication.php?filename=http://www.cs.utexas.edu/users/ml/papers/thomason.icra18.pdf&pubid=127746)
+[Paper](http://www.cs.utexas.edu/users/ai-lab/downloadPublication.php?filename=http://www.cs.utexas.edu/users/ml/papers/thomason.icra18.pdf&pubid=127746) &nbsp; &nbsp; &nbsp; [Demo Video](https://youtu.be/PbOfteZ_CJc)
 
 - Shiqi Zhang, *Yuqian Jiang*, Guni Sharon, and Peter Stone.  
 **"Multirobot Symbolic Planning under Temporal Uncertainty."**  
@@ -21,7 +21,7 @@ In Proceedings of the 16th International Conference on Autonomous Agents and Mul
 ## Journal Articles
 - *Yuqian Jiang*, Harel Yedidsion, Shiqi Zhang, Guni Sharon, and Peter Stone.  
 **"Multi-Robot Planning with Conflicts and Synergies."**  
-Autonomous Robots, 2019 (accepted)
+Autonomous Robots, 2019 (accepted).
 
 - *Yuqian Jiang*, Shiqi Zhang, Piyush Khandelwal, and Peter Stone.  
 **"Task Planning in Robotics: an Empirical Comparison of PDDL-based and ASP-based Systems."**  
@@ -46,4 +46,3 @@ In Late-Breaking Track at the SIGDIAL Special Session on Physically Situated Dia
 - Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, *Yuqian Jiang*, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J. Mooney.  
 **"Jointly Improving Parsing and Perception for Natural Language Commands through Human-Robot Dialog."**  
 In Proceedings of the RSS Workshop on Models and Representations for Natural Human-Robot Communication (MRHRC-18), 2018.  
-[Paper](https://www.cs.utexas.edu/%7Epstone/Papers/bib2html-links/MRHRC18-thomason.pdf) &nbsp; &nbsp; &nbsp; [Demo Video](https://youtu.be/PbOfteZ_CJc)
