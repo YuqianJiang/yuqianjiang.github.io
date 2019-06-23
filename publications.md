@@ -2,13 +2,19 @@
 title: Publications
 ---
 ## Conference Papers
+- *Yuqian Jiang*, Fangkai Yang, Shiqi Zhang, Peter Stone.  
+**"Task-Motion Planning with Reinforcement Learning for Adaptable Mobile Service Robots."**  
+To Appear in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.  
+
 - *Yuqian Jiang*, Nick Walker, Justin Hart, and Peter Stone.  
 **"Open-World Reasoning for Service Robots."**  
 To Appear in International Conference in Automated Planning and Scheduling (ICAPS), 2019.  
+[Paper](http://www.cs.utexas.edu/~pstone/Papers/bib2html-links/ICAPS19-Jiang.pdf) &nbsp; &nbsp; &nbsp; 
+[Demo Video](https://youtu.be/TLXGQDTAZvA)
 
 - Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, *Yuqian Jiang*, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J. Mooney.  
 **"Improving Grounded Natural Language Understanding through Human-Robot Dialog."**  
-To Appear in IEEE International Conference on Robotics and Automation (ICRA), 2019.  
+In Proceedings of IEEE International Conference on Robotics and Automation (ICRA), 2019.  
 [Paper](http://www.cs.utexas.edu/users/ai-lab/downloadPublication.php?filename=http://www.cs.utexas.edu/users/ml/papers/thomason.icra18.pdf&pubid=127746) &nbsp; &nbsp; &nbsp; [Demo Video](https://youtu.be/PbOfteZ_CJc)
 
 - Shiqi Zhang, *Yuqian Jiang*, Guni Sharon, and Peter Stone.  
@@ -21,12 +27,13 @@ In Proceedings of the 16th International Conference on Autonomous Agents and Mul
 ## Journal Articles
 - *Yuqian Jiang*, Harel Yedidsion, Shiqi Zhang, Guni Sharon, and Peter Stone.  
 **"Multi-Robot Planning with Conflicts and Synergies."**  
-Autonomous Robots, 2019 (accepted).
+Autonomous Robots, 2019.  
+[Paper](https://link.springer.com/article/10.1007/s10514-019-09848-1)
 
 - *Yuqian Jiang*, Shiqi Zhang, Piyush Khandelwal, and Peter Stone.  
 **"Task Planning in Robotics: an Empirical Comparison of PDDL-based and ASP-based Systems."**  
 Frontiers of Information Technology and Electronic Engineering, Special Issue on Intelligent Robots, 2019.  
-[Paper](https://arxiv.org/pdf/1804.08229.pdf)
+[Paper](https://link.springer.com/article/10.1631%2FFITEE.1800514)
 
 ## Workshop/Symposium Papers
 - *Yuqian Jiang*, Nick Walker, Minkyu Kim, Nicolas Brissonneau, Daniel S Brown, Justin W Hart, Scott Niekum, Luis Sentis, and Peter Stone.  
