@@ -8,7 +8,7 @@ To Appear in IEEE/RSJ International Conference on Intelligent Robots and Systems
 
 - *Yuqian Jiang*, Nick Walker, Justin Hart, and Peter Stone.  
 **"Open-World Reasoning for Service Robots."**  
-To Appear in International Conference in Automated Planning and Scheduling (ICAPS), 2019.  
+In Proceedings of International Conference in Automated Planning and Scheduling (ICAPS), 2019.  
 [Paper](http://www.cs.utexas.edu/~pstone/Papers/bib2html-links/ICAPS19-Jiang.pdf) &nbsp; &nbsp; &nbsp; 
 [Demo Video](https://youtu.be/TLXGQDTAZvA)
 
