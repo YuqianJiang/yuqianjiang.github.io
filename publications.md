@@ -4,7 +4,9 @@ title: Publications
 ## Conference Papers
 - *Yuqian Jiang*, Fangkai Yang, Shiqi Zhang, Peter Stone.  
 **"Task-Motion Planning with Reinforcement Learning for Adaptable Mobile Service Robots."**  
-To Appear in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.  
+In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.  
+[Paper](http://www.cs.utexas.edu/~pstone/Papers/bib2html-links/IROS19-jiang.pdf) &nbsp; &nbsp; &nbsp; 
+[Demo Video](https://youtu.be/EyoqrpO3Qkk)
 
 - *Yuqian Jiang*, Nick Walker, Justin Hart, and Peter Stone.  
 **"Open-World Reasoning for Service Robots."**  
