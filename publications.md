@@ -2,6 +2,16 @@
 title: Publications
 ---
 ## Conference Papers
+- *Yuqian Jiang*, Suda Bharadwaj, Bo Wu, Rishi Shah, Ufuk Topcu, Peter Stone.  
+**"Temporal-Logic-Based Reward Shaping for Continuing Reinforcement Learning Tasks."**  
+In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021), 2021.  
+[Paper](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AAAI21-jiang.pdf)
+
+- Rishi Shah, *Yuqian Jiang*, Justin Hart, and Peter Stone.  
+**"Deep R-Learning for Continual Area Sweeping."** 
+In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2020), 2020.  
+[Paper](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/IROS20-shah.pdf)
+
 - *Yuqian Jiang*, Fangkai Yang, Shiqi Zhang, Peter Stone.  
 **"Task-Motion Planning with Reinforcement Learning for Adaptable Mobile Service Robots."**  
 In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.  
@@ -27,6 +37,11 @@ In Proceedings of the 16th International Conference on Autonomous Agents and Mul
 
 
 ## Journal Articles
+- Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, *Yuqian Jiang*, Harel Yedidsion, Justin Hart, Peter Stone and Raymond J. Mooney.  
+**"Jointly Improving Parsing and Perception for Natural Language Commands through Human-Robot Dialog."**  
+The Journal of Artificial Intelligence Research (JAIR), 2020.  
+[Paper](https://www.cs.utexas.edu/users/ml/papers/thomason.jair20.pdf)
+
 - *Yuqian Jiang*, Harel Yedidsion, Shiqi Zhang, Guni Sharon, and Peter Stone.  
 **"Multi-Robot Planning with Conflicts and Synergies."**  
 Autonomous Robots, 2019.  
@@ -38,6 +53,16 @@ Frontiers of Information Technology and Electronic Engineering, Special Issue on
 [Paper](https://link.springer.com/article/10.1631%2FFITEE.1800514)
 
 ## Workshop/Symposium Papers
+- Rishi Shah, *Yuqian Jiang*, Haresh Karnan, Gilberto Briscoe-Martinez, Dominick Mulder, Ryan Gupta, Rachel Schlossman, Marika Murphy, Justin Hart, Luis Sentis, and Peter Stone.  
+**"Solving Service Robot Tasks: UT Austin Villa@Home 2019 Team Report."**  
+In AAAI Fall Symposium on Artificial Intelligence and Human-Robot Interaction for Service Robots in Human Environments (AI-HRI 2019), 2019.  
+[Paper](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/AIHRI19-shah.pdf)
+
+- Nick Walker, *Yuqian Jiang*, Maya Cakmak and Peter Stone.  
+**"Desiderata for Planning Systems in General-Purpose Service Robots."**  
+In Proceedings of 2019 ICAPS Workshop on Planning and Robotics, 2019.  
+[Paper](https://icaps19.icaps-conference.org/workshops/PlanRob/PlanRob_2019_submissions/PlanRob_2019_paper_9.pdf)
+
 - *Yuqian Jiang*, Nick Walker, Minkyu Kim, Nicolas Brissonneau, Daniel S Brown, Justin W Hart, Scott Niekum, Luis Sentis, and Peter Stone.  
 **“LAAIR: A Layered Architecture for Autonomous Interactive Robots.”**  
 In Proceedings of the AAAI Fall Symposium on Reasoning and Learning in Real-World Systems for Long-Term Autonomy (LTA), 2018.  
@@ -48,10 +73,12 @@ In Proceedings of the AAAI Fall Symposium on Reasoning and Learning in Real-Worl
 In AAAI Fall Symposium on Artificial Intelligence and Human-Robot Interaction (AI-HRI), 2018.  
 [Paper](https://arxiv.org/pdf/1810.02919.pdf)
 
+<!---
 - Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, *Yuqian Jiang*, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J Mooney.  
 **“Jointly Improving Parsing and Perception for Natural Language Commands through Human-Robot Dialog.”**  
 In Late-Breaking Track at the SIGDIAL Special Session on Physically Situated Dialogue (RoboDIAL-18), 2018.  
 
 - Jesse Thomason, Aishwarya Padmakumar, Jivko Sinapov, Nick Walker, *Yuqian Jiang*, Harel Yedidsion, Justin Hart, Peter Stone, and Raymond J. Mooney.  
 **"Jointly Improving Parsing and Perception for Natural Language Commands through Human-Robot Dialog."**  
-In Proceedings of the RSS Workshop on Models and Representations for Natural Human-Robot Communication (MRHRC-18), 2018.  
+In Proceedings of the RSS Workshop on Models and Representations for Natural Human-Robot Communication (MRHRC-18), 2018. 
+-->
