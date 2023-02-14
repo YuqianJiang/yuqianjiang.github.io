@@ -53,6 +53,22 @@ Frontiers of Information Technology and Electronic Engineering, Special Issue on
 [Paper](https://link.springer.com/article/10.1631%2FFITEE.1800514)
 
 ## Workshop/Symposium Papers
+- *Yuqian Jiang*, Qiaozi Gao, Govind Thattai, and Gaurav Sukhatme.  
+**"Language-Informed Transfer Learning for Embodied Household Activities."**  
+In AAAI Workshop on User-Centric Artificial Intelligence for Assistance in At-Home Tasks. February 2023.  
+[Paper](https://arxiv.org/pdf/2301.05318.pdf)
+
+- Zifan Xu, Yulin Zhang, Shahaf S. Shperberg, Reuth Mirsky, Yulin Zhan, *Yuqian Jiang*, Bo Liu, and Peter
+Stone.  
+**"Model-Based Meta Automatic Curriculum Learning."**  
+In Decision Awareness in Reinforcement Learning (DARL) workshop of the 39th International Conference on Machine Learning (ICML). July 2022.  
+[Paper](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/DARL22-ZIFAN.pdf)
+
+- Reuth Mirsky, Shahaf S. Shperberg, Yulin Zhang, Zifan Xu, *Yuqian Jiang*, Jiaxun Cui, and Peter Stone.  
+**"Task Factorization in Curriculum Learning."**  
+In Decision Awareness in Reinforcement Learning (DARL) workshop of the 39th International Conference on Machine Learning (ICML). July 2022.  
+[Paper](https://www.cs.utexas.edu/~pstone/Papers/bib2html-links/DARL22-REUTH.pdf)
+
 - Rishi Shah, *Yuqian Jiang*, Haresh Karnan, Gilberto Briscoe-Martinez, Dominick Mulder, Ryan Gupta, Rachel Schlossman, Marika Murphy, Justin Hart, Luis Sentis, and Peter Stone.  
 **"Solving Service Robot Tasks: UT Austin Villa@Home 2019 Team Report."**  
 In AAAI Fall Symposium on Artificial Intelligence and Human-Robot Interaction for Service Robots in Human Environments (AI-HRI 2019), 2019.  
