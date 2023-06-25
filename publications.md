@@ -52,7 +52,12 @@ Autonomous Robots, 2019.
 Frontiers of Information Technology and Electronic Engineering, Special Issue on Intelligent Robots, 2019.  
 [Paper](https://link.springer.com/article/10.1631%2FFITEE.1800514)
 
-## Workshop/Symposium Papers
+## Workshop/Symposium Papers/Pre-prints
+- Bo Liu, *Yuqian Jiang*, Xiaohan Zhang, Qiang Liu, Shiqi Zhang, Joydeep Biswas, Peter Stone
+**"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency."**
+In arXiv. April 2023.
+[Paper](https://arxiv.org/abs/2304.11477)
+
 - *Yuqian Jiang*, Qiaozi Gao, Govind Thattai, and Gaurav Sukhatme.  
 **"Language-Informed Transfer Learning for Embodied Household Activities."**  
 In AAAI Workshop on User-Centric Artificial Intelligence for Assistance in At-Home Tasks. February 2023.  
