@@ -2,6 +2,10 @@
 title: Publications
 ---
 ## Conference Papers
+- Xiaohan Zhang, Yifeng Zhu, Yan Ding, *Yuqian Jiang*, Yuke Zhu, Peter Stone, and Shiqi Zhang  
+**"Symbolic State Space Optimization for Long Horizon Mobile Manipulation Planning."**  
+To Appear in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023), 2023.
+
 - *Yuqian Jiang*, Suda Bharadwaj, Bo Wu, Rishi Shah, Ufuk Topcu, Peter Stone.  
 **"Temporal-Logic-Based Reward Shaping for Continuing Reinforcement Learning Tasks."**  
 In Proceedings of the 35th AAAI Conference on Artificial Intelligence (AAAI 2021), 2021.  
@@ -53,10 +57,9 @@ Frontiers of Information Technology and Electronic Engineering, Special Issue on
 [Paper](https://link.springer.com/article/10.1631%2FFITEE.1800514)
 
 ## Workshop/Symposium Papers/Pre-prints
-- Bo Liu, *Yuqian Jiang*, Xiaohan Zhang, Qiang Liu, Shiqi Zhang, Joydeep Biswas, Peter Stone
-**"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency."**
-In arXiv. April 2023.
-[Paper](https://arxiv.org/abs/2304.11477)
+- Bo Liu, *Yuqian Jiang*, Xiaohan Zhang, Qiang Liu, Shiqi Zhang, Joydeep Biswas, Peter Stone.  
+**"LLM+P: Empowering Large Language Models with Optimal Planning Proficiency."**    
+[Paper](https://arxiv.org/abs/2304.11477) &nbsp; &nbsp; &nbsp;   [Code](https://github.com/Cranial-XIX/llm-pddl)
 
 - *Yuqian Jiang*, Qiaozi Gao, Govind Thattai, and Gaurav Sukhatme.  
 **"Language-Informed Transfer Learning for Embodied Household Activities."**  
