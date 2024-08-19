@@ -16,15 +16,13 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 lang: en-US
 title: Yuqian Jiang
-email: jiangyuqian@utexas.edu
+email: linda.yuqian.jiang@gmail.com
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Yuqian Jiang
-  twitter: lindajyq777
   picture: /assets/images/square_xs.png
-twitter_username: lindajyq777
 github_username: YuqianJiang
 logo: https://s.gravatar.com/avatar/aad355e86f5942c973728d1a99e34429
 search: # true, false (default)
