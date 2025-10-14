@@ -15,6 +15,6 @@ I was honored to receive the [Silvia Coradeschi Award at RoboCup 2024](https://w
 
 [<span style="font-size:larger;">List of Publications</span>](https://yuqianjiang.us/publications.html)
 
-[<span style="font-size:larger;">Google Scholar</span>](https://scholar.google.com/citations?user=3HAa8ni1oGUC)
+[<span style="font-size:larger;">Google Scholar</span>](https://scholar.google.com/citations?user=mMIP9dgAAAAJ)
 
 Outside of research, I like running, watching basketball, and playing the piano. I am a finisher of Marathon Pour Tous, the mass participation marathon of the Paris 2024 Olympic Games.
